@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React, JavaScript<br><br>👨‍💻 All of my projects are available at https://chandranaprasanna.vercel.app/<br><br>💬 Ask me about web development<br><br>📫 reach me praveensahu.work@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1BEf5_K_R2nQdxfwVeDHgbCcbkHOzQQwe/view
+🌱 I’m currently learning React, JavaScript<br><br>👨‍💻 visit my portfolio at https://chandranaprasanna.vercel.app/<br><br>💬 Ask me about web development<br><br>📫 reach me chandranaprasanna@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1BEf5_K_R2nQdxfwVeDHgbCcbkHOzQQwe/view
 
 
 ## 🌐 Socials:
